@@ -22,8 +22,16 @@ let canvas = Canvas(width: 400, height: 300)
  
  Use whitespace and comments as appropriate.
  */
-// Replace this comment with your first comment – what is the goal of the code you're about to write?
+//var and let
+var name = "Jeff" // String stores text
 
+name = "jose"
+
+let name2 = "nice"
+
+var x = 2
+
+name2 = "nice" //Because let is a constant
 
 
 /*:
